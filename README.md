@@ -2,7 +2,9 @@
 
 This is my socket programming homework.
 
+## Before starting
 
+Do not forget to use `npm` / `yarn` to install all dependencies. 
 
 ## How to start
 
